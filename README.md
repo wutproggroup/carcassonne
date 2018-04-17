@@ -43,7 +43,7 @@ Example:
 Pictures presenting tiles described above: 
 <dd> </dd>
 
-[Title 1.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/1.png)
+![Title 1.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/1.png)
 
 <dd> </dd>
 
