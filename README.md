@@ -41,10 +41,10 @@ Example:
 > <dd> } </dd>
 
 Pictures presenting tiles described above: 
-<dd> ![Title 1.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/1.png) </dd>
-<dd> ![Title 2.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/2.png) </dd>
-<dd> ![Title 3.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/3.png) </dd>
-<dd> ![Title 4.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/4.png) </dd>
+[Title 1.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/1.png)
+![Title 2.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/2.png)
+![Title 3.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/3.png)
+![Title 4.png](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/4.png)
 
 
 ##### available_tiles file structure
