@@ -41,10 +41,10 @@ Example:
 > <dd> } </dd>
 
 Pictures presenting tiles described above: 
-- ![alt text](https://github.com/wutproggroup/carcassonne/resources/tiles/1.png "Temple with 1 road")
-- ![alt text](https://github.com/wutproggroup/carcassonne/resources/tiles/2.png "Temple standalone")
-- ![alt text](https://github.com/wutproggroup/carcassonne/resources/tiles/3.png "City")
-- ![alt text](https://github.com/wutproggroup/carcassonne/tiles/resources/tiles/4.png "Road near a city")
+<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/resources/tiles/1.png "Temple with 1 road") </dd>
+<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/resources/tiles/2.png "Temple standalone") </dd>
+<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/resources/tiles/3.png "City") </dd>
+<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/tiles/resources/tiles/4.png "Road near a city") </dd>
 
 
 ##### available_tiles file structure
@@ -64,10 +64,10 @@ Example:
 
 
 2x2 example without top left tile
-> - ,4_3
-> - 13_1,10_1
+> <dd> ,4_3 </dd>
+> <dd> 13_1,10_1 </dd>
 
 3x3 example without middle tile
-> - 1_1,2_2,2_2
-> - 3_3,,4_4
-> - 3_2,1_2,2_1
+> <dd> 1_1,2_2,2_2 </dd>
+> <dd> 3_3,,4_4 </dd>
+> <dd> 3_2,1_2,2_1 </dd>
