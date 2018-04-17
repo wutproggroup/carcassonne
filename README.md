@@ -1,16 +1,15 @@
 # Carcassonne
 ## College project
 Simple carcassone-like game written in c.
-## How it should work: 
-
-
 
 ## Assumptions for file format and arguments standard
-#####For running the game 4 files should be provided:
-*carcass.exe 
-*tiles 
-*available_tiles 
-*map
+
+
+##### For running the game 4 files should be provided:
+⋅⋅*carcass.exe 
+⋅⋅*tiles 
+⋅⋅*available_tiles 
+⋅⋅*map
 
 **_if map file is not provided program will generate a new one_**
 
@@ -42,10 +41,10 @@ Example:
 >}
 
 Pictures presenting tiles described above: 
-![alt text](https://github.com/matlawsky/carcassonne/resources/tiles/1.png "Temple with 1 road")
-![alt text](https://github.com/matlawsky/carcassonne/resources/tiles/2.png "Temple standalone")
-![alt text](https://github.com/matlawsky/carcassonne/resources/tiles/3.png "City")
-![alt text](https://github.com/matlawsky/carcassonne/tiles/resources/tiles/4.png "Road near a city")
+![alt text](https://github.com/wutproggroup/carcassonne/resources/tiles/1.png "Temple with 1 road")
+![alt text](https://github.com/wutproggroup/carcassonne/resources/tiles/2.png "Temple standalone")
+![alt text](https://github.com/wutproggroup/carcassonne/resources/tiles/3.png "City")
+![alt text](https://github.com/wutproggroup/carcassonne/tiles/resources/tiles/4.png "Road near a city")
 
 
 ##### available_tiles file structure
