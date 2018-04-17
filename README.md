@@ -26,11 +26,11 @@ To describe every tile we have to use special model so that single line will des
 >	top, 0/1/2      specifies what's on the tile 0-nothing, 1-road, 2-city
 >	right, 0/1/2	^
 >	bottom, 0/1/2	^
->	down, 0/1/2		^
+>	left, 0/1/2		^
 >}
 
 So single line in the file will look like this:
->id,name,isTemple,crossRoads,bonus,top,right,bottom,down;
+>id,name,isTemple,crossRoads,bonus,top,right,bottom,left;
 
 Example:
 >{
@@ -42,16 +42,16 @@ Example:
 >}
 
 Pictures presenting tiles described above: 
-![alt text](https://github.com/matlawsky/carcassonne/tiles/1.png "Temple with 1 road")
-![alt text](https://github.com/matlawsky/carcassonne/tiles/2.png "Temple standalone")
-![alt text](https://github.com/matlawsky/carcassonne/tiles/3.png "City")
-![alt text](https://github.com/matlawsky/carcassonne/tiles/4.png "Road near a city")
+![alt text](https://github.com/matlawsky/carcassonne/resources/tiles/1.png "Temple with 1 road")
+![alt text](https://github.com/matlawsky/carcassonne/resources/tiles/2.png "Temple standalone")
+![alt text](https://github.com/matlawsky/carcassonne/resources/tiles/3.png "City")
+![alt text](https://github.com/matlawsky/carcassonne/tiles/resources/tiles/4.png "Road near a city")
 
 
 ##### available_tiles file structure
 
 available_tiles file should contain available tiles tile_id and to specify
-it should be list of ids after commans. tile_id is int.
+it should be list of ids after commas. tile_id is int.
 
 Example:
 >1,2,3,4,5...

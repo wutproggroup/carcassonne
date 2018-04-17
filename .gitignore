@@ -2,3 +2,5 @@
 *.o
 carcassonne
 *.exe
+# vs code files
+*.vscode
