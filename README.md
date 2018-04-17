@@ -41,10 +41,10 @@ Example:
 > <dd> } </dd>
 
 Pictures presenting tiles described above: 
-<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/resources/tiles/1.png "Temple with 1 road") </dd>
-<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/resources/tiles/2.png "Temple standalone") </dd>
-<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/resources/tiles/3.png "City") </dd>
-<dd> ![alt text](https://github.com/wutproggroup/raw/master/carcassonne/tiles/resources/tiles/4.png "Road near a city") </dd>
+<dd> ![alt text](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/1.png "Temple with 1 road") </dd>
+<dd> ![alt text](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/2.png "Temple standalone") </dd>
+<dd> ![alt text](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/3.png "City") </dd>
+<dd> ![alt text](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/4.png "Road near a city") </dd>
 
 
 ##### available_tiles file structure
