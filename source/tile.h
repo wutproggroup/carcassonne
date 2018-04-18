@@ -5,10 +5,9 @@
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdio.h>
-//#include <SDL.h>
 
-//it's not usefull
-enum Nrc { NOTHING = 0, ROAD = 1, CITY = 2 };
+
+
 
 typedef struct {
     int id;
