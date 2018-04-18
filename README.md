@@ -43,19 +43,19 @@ Example:
 Pictures presenting tiles described above: 
 <dd> </dd>
 
-![Title 1.bmp](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/1.bmp)
+![Title 1.bmp](https://github.com/wutproggroup/carcassonne/blob/master/source/resources/tiles/1.bmp)
 
 <dd> </dd>
 
-![Title 2.bmp](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/2.bmp)
+![Title 2.bmp](https://github.com/wutproggroup/carcassonne/blob/master/source/resources/tiles/2.bmp)
 
 <dd> </dd>
 
-![Title 3.bmp](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/3.bmp)
+![Title 3.bmp](https://github.com/wutproggroup/carcassonne/blob/master/source/resources/tiles/3.bmp)
 
 <dd> </dd>
 
-![Title 4.bmp](https://github.com/wutproggroup/carcassonne/blob/master/resources/tiles/4.bmp)
+![Title 4.bmp](https://github.com/wutproggroup/carcassonne/blob/master/source/resources/tiles/4.bmp)
 
 <dd> </dd>
 
